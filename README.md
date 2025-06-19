@@ -26,3 +26,7 @@ from scipy import stats
 
 ## **Informações adicionais**
 Os notebooks data_load_gcp e data_load_postgres foram utilizados para uma manipulação inicial dos dados e não precisam ser executados novamente.
+
+
+O desafio incluía descobrir como acessar os arquivos apesar das dificuldades inicialmente impostas. Abaixo está o link para o download dos arquivos iniciais: [Download dos arquivos iniciais](https://drive.google.com/drive/folders/1dH1sQjqSX65-fGq09I3oEQ4--j56BeIw?usp=sharing).
+
