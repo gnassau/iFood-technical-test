@@ -1,8 +1,8 @@
-# Ifood-test
+# **iFood-test**
 
 Desafio técnico iFood.
 
-## Organização dos Exercícios
+## **Organização dos Exercícios**
 
 Os exercícios foram divididos em partes para melhor organização:
 
