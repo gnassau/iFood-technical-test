@@ -11,7 +11,7 @@ Os exercícios foram divididos em partes para melhor organização:
 - O arquivo pdf contém o exercício 3.
 
 ## **Para executar:**
-1. **Instalação de Dependências:** Certifique-se de que todas as bibliotecas necessárias estão instaladas em seu ambiente.
+1. **Instalação de Dependências:** Verifique se todas as bibliotecas necessárias estão instaladas no seu ambiente. As principais estão listadas abaixo, mas você também pode consultar o arquivo requirements.txt para mais detalhes.
 
 ```python
 import pandas as pd
