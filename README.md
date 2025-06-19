@@ -8,6 +8,7 @@ Os exercícios foram divididos em partes para melhor organização:
 
 - **Part_1:** Exercícios 1a, 1b e 1c.
 - **Part_2:** Exercícios 2a, 2b e 2c.
+- O arquivo pdf contém o exercício 3.
 
 ## **Para executar:**
 1. **Instalação de Dependências:** Certifique-se de que todas as bibliotecas necessárias estão instaladas em seu ambiente.
